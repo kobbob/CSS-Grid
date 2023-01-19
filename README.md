@@ -1,7 +1,3 @@
-# CSS-Grid
+# CSS-Tips-and-Tricks
 
-Tutorial via https://gridcritters.com/
-
-- Learning Grid layout. 
-- Learn by doing. 
-- In depth lessons via Grid Critters. 
+Useful CSS tips for practice & future use. 
